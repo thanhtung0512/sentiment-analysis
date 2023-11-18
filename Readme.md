@@ -1,4 +1,4 @@
-# This is my machine learning project
+# This is my endterm project
 
 In this project, I train some comments on facebook posts for sentiment analysis. Don't get confused with some files that has similar content and you don't know what to do with it.
 
