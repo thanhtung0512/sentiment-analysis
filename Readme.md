@@ -25,6 +25,7 @@ Where data came from.
 * Naive Bayes
 * LSTM
 * Linear
+* SVM
 
 ## Commands
 
